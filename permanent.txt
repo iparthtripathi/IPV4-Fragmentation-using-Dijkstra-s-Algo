@@ -1,0 +1,6 @@
+Name: Parth
+Age: 19
+Employee Type: Permanent
+Final Salary: 225000
+
+

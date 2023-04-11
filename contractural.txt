@@ -1,0 +1,36 @@
+Final Salary: 9500
+
+
+Name: abcde
+Age: 19
+Employee Type: Contractural
+Final Salary: 9500
+
+
+Name: abc
+Age: 20
+Employee Type: Contractural
+Final Salary: 9000
+
+
+Name: ABcd
+Age: 25
+Employee Type: Contractural
+Final Salary: 9000
+
+
+Name: lol
+Age: 25
+Employee Type: Contractural
+Final Salary: 90000
+
+
+Name: Parth
+Age: 25
+Employee Type: Contractural
+Basic Salary:200000
+professional tax deductions:3000
+Income tax Deductions:7000
+Final Salary: 190000
+
+
